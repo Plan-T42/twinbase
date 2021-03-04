@@ -1,4 +1,6 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
+dt-id: https://dtid.org/ffdaeed6-9d22-4dee-a816-cfa651efe7df
+hosting-iri: https://Plan-T42.github.io/twinbase/ffdaeed6-9d22-4dee-a816-cfa651efe7df
 name: Newnew twinn
 description: twinnn
+baseurl: https://Plan-T42.github.io/twinbase
+edit: https://github.com/Plan-T42/twinbase/edit/main/docs/ffdaeed6-9d22-4dee-a816-cfa651efe7df/index.yaml
