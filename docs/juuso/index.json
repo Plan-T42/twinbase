@@ -2,7 +2,7 @@
     "version": "1.0",
     "privacy": "public",
     "dt-id": "http://d-t.fi/juuso",
-    "hosting-iri": "https://dtw.dtp.fi/juuso",
+    "hosting-iri": "https://Plan-T42.github.io/twinbase/juuso",
     "name": "Juuso Autiosalo",
     "description": "Juuso is working as a doctoral candidate at Aalto University.",
     "contact": {
@@ -32,6 +32,6 @@
             "address": "https://github.com/juusoautiosalo"
         }
     ],
-    "edit": "https://github.com/juusoautiosalo/twinbase/edit/main/docs/juuso/index.yaml",
-    "baseurl": "https://dtw.dtp.fi"
+    "edit": "https://github.com/Plan-T42/twinbase/edit/main/docs/juuso/index.yaml",
+    "baseurl": "https://Plan-T42.github.io/twinbase"
 }
